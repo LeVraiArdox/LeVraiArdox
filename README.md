@@ -3,7 +3,7 @@
 [Instagram]: https://instagram.com/lvardox
 [github]: https://github.com/levraiardox
 [gmail]: mailto:lvardox@proton.me
-[ko-fi]: https://ko-fi.com/lvardox
+[ko-fi]: https://ko-fi.com/ardox
 
 ### <samp>&gt; Hi there, I'm Ardox! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
 
