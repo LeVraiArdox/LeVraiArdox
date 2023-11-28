@@ -1,5 +1,5 @@
 <!-- List Of Websites-->
-[AxOS]: https://archcraft.io
+[AxOS]: https://axos-project.github.io
 [Instagram]: https://instagram.com/lvardox
 [github]: https://github.com/levraiardox
 [gmail]: mailto:lvardox@proton.me
