@@ -17,6 +17,8 @@ I am the developer of [**AxOS**][AxOS], Which is an open-source Linux distributi
 
 I love spending my time creating something that not only looks good but also perfectly usable and practical. That being said, AxOS came to life. I've been creating, updating and maintaining it for the last 2 years.
 
+If you want to support me, you can <a href="https://ko-fi.com/ardox">buy me a coffee</a>
+
 **Talking about Personal Stuffs:**
 
 - Ask me about anything, I am happy to help
