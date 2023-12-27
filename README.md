@@ -19,6 +19,6 @@ I love spending my time creating something that not only looks good but also per
 
 **Talking about Personal Stuffs:**
 
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; Ask me about anything, I am happy to help
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/laptop.gif?raw=true" width="21" />&nbsp;&nbsp; I regulary create new stuff for [AxOS][AxOS]
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: [lvardox@proton.me][gmail]
+- Ask me about anything, I am happy to help
+- I regulary create new stuff for [AxOS][AxOS]
+- How to reach me: [lvardox@proton.me][gmail]
