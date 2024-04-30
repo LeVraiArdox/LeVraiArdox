@@ -1,8 +1,8 @@
 <!-- List Of Websites-->
-[AxOS]: https://axos-project.github.io
+[AxOS]: https://www.axos-project.com
 [Instagram]: https://instagram.com/lvardox
 [github]: https://github.com/levraiardox
-[gmail]: mailto:lvardox@proton.me
+[gmail]: mailto:ardox@axos-project.com
 [ko-fi]: https://ko-fi.com/ardox
 [ardox]: https://levraiardox.is-a.dev
 
@@ -24,4 +24,4 @@ If you want to support me, you can <a href="https://ko-fi.com/ardox">buy me a co
 
 - Ask me about anything, I am happy to help
 - I regulary create new stuff for [AxOS][AxOS]
-- How to reach me: [lvardox@proton.me][gmail]
+- How to reach me: [ardox@axos-project.com][gmail]
