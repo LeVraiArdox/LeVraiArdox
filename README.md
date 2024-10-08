@@ -4,7 +4,7 @@
 [github]: https://github.com/levraiardox
 [gmail]: mailto:ardox@axos-project.com
 [ko-fi]: https://ko-fi.com/ardox
-[ardox]: https://levraiardox.is-a.dev
+[ardox]: https://lvardox.com
 [discord]: https://discord.com/users/688359929475498030
 
 ### <samp>&gt; Hi there, I'm Ardox! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
