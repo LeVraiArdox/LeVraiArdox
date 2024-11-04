@@ -33,7 +33,7 @@ What i currently use.
 
 My skills in code.
 
-[![My Skills](https://skillicons.dev/icons?i=arduino,bash,c,css,html,java,js,lua,md,mysql,py,react)](#)
+[![My Skills](https://skillicons.dev/icons?i=arduino,bash,c,css,html,java,js,lua,md,mysql,py,react,rust)](#)
 
 **What I know (others)**
 
