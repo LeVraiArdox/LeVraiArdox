@@ -9,7 +9,6 @@
 
 ### <samp>&gt; Hi there, I'm Ardox! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
 
-[![ko-fi Badge](https://img.shields.io/badge/-KoFi-ff5c5a?style=flat-square&logo=kofi&logoColor=white)][ko-fi]
 [![Website Badge](https://img.shields.io/badge/Website-1d2128?style=flat-square&logo=google-chrome&logoColor=white)][ardox]
 
 ### Glad to see you here! &nbsp;
