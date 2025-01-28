@@ -25,7 +25,7 @@ If you want to support me, you can <a href="https://ko-fi.com/ardox">buy me a co
 
 What i currently use.
 
-[![My Skills](https://skillicons.dev/icons?i=arch,vscode,neovim,notion)](#)
+[![My Skills](https://skillicons.dev/icons?i=arch,vscode)](#)
 
 
 **What I know (programming)**
