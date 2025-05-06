@@ -21,24 +21,18 @@ I love spending my time creating something that not only looks good but also per
 If you want to support me, you can <a href="https://ko-fi.com/ardox">buy me a coffee</a>
 
 ### Some things about me
-**My setup**
 
-What i currently use.
-
-[![My Skills](https://skillicons.dev/icons?i=arch,vscode)](#)
-
-
-**What I know (programming)**
+**Stuff I know (programming)**
 
 My skills in code.
 
-[![My Skills](https://skillicons.dev/icons?i=arduino,bash,c,css,html,java,js,lua,md,mysql,py,react,rust)](#)
+[![My Skills](https://skillicons.dev/icons?i=arduino,bash,c,css,html,java,js,lua,md,mysql,py,react,rust,astro)](#)
 
-**What I know (others)**
+**Stuff I know (others)**
 
 Stuff i also know.
 
-[![My Skills](https://skillicons.dev/icons?i=ableton,androidstudio,atom,arch,bootstrap,codepen,debian,firebase,git,githubactions,linux,mint,nodejs,notion,npm,raspberrypi,replit,stackoverflow,svg,ubuntu,vim,vscodium,windows)](#)
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,arch,codepen,debian,git,githubactions,linux,mint,nodejs,notion,npm,raspberrypi,svg,ubuntu,vim,vscodium,windows,discordjs,vercel,vscode)](#)
 
 **Reach me (click on the icons)**
 
