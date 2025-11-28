@@ -34,6 +34,9 @@ Stuff i also know.
 
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,arch,codepen,debian,git,githubactions,linux,mint,nodejs,notion,npm,raspberrypi,svg,ubuntu,vim,vscodium,windows,discordjs,vercel,vscode)](#)
 
+<img width="70" height="70" alt="red-hat-system-administration-i-rh124-rha-ver-9-3" src="https://github.com/user-attachments/assets/693fb2f2-6a1d-4d89-858e-ab5eafad01d7" />
+
+
 **Reach me (click on the icons)**
 
 You can ask me anything, or just chat with me. Don't hesitate!
