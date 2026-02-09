@@ -20,20 +20,6 @@ I love spending my time creating something that not only looks good but also per
 
 If you want to support me, you can <a href="https://ko-fi.com/ardox">buy me a coffee</a>
 
-### Some things about me
-
-**Stuff I know (programming)**
-
-My skills in code.
-
-[![My Skills](https://skillicons.dev/icons?i=arduino,bash,c,css,html,java,js,lua,md,mysql,py,react,rust,astro)](#)
-
-**Stuff I know (others)**
-
-Stuff i also know.
-
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,arch,codepen,debian,git,githubactions,linux,mint,nodejs,notion,npm,raspberrypi,svg,ubuntu,vim,vscodium,windows,discordjs,vercel,vscode)](#)
-
 <img width="70" height="70" alt="red-hat-system-administration-i-rh124-rha-ver-9-3" src="https://github.com/user-attachments/assets/693fb2f2-6a1d-4d89-858e-ab5eafad01d7" />
 
 
