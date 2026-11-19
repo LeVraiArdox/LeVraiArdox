@@ -22,6 +22,8 @@ If you want to support me, you can <a href="https://ko-fi.com/ardox">buy me a co
 
 <img width="70" height="70" alt="red-hat-system-administration-i-rh124-rha-ver-9-3" src="https://github.com/user-attachments/assets/693fb2f2-6a1d-4d89-858e-ab5eafad01d7" />
 
+<img width="70" height="70" alt="image" src="https://github.com/user-attachments/assets/6fe402ab-351b-42ca-a921-39011eafa98f" />
+
 
 **Reach me (click on the icons)**
 
